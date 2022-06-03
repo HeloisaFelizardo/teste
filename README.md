@@ -1,2 +1,2 @@
 # teste
-Testando funcionalidades do Git
+Testing features
